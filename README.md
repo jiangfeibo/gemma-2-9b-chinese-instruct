@@ -52,16 +52,16 @@ CMMLU：CMMLU是一个综合性的中文评估基准，专门用于评估语言�
 
 微调数据集：
 
-|                         |                                                              |                                                              |
-| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 中文微调数据集          | llama3 ShareGPT格式中文微调数据集                            | https://modelscope.cn/datasets/zhuangxialie/Llama3-Chinese-Dataset/files |
-| code                    | 数据集包含问题描述和Python语言代码                           | https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca |
-| mathglm                 | 清华大学算术任务数据集                                       | https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/        |
-| sft-20k                 | 来自于启真医学知识库收集整理的真实医患知识问答数据以及在启真医学知识库的药品文本知识基础上，通过对半结构化数据设置特定的问题模板构造的指令数据 | https://github.com/CMKRG/QiZhenGPT/blob/main/data/train/sft-20k.json |
-| llama_data              | Huatuo-Llama-Med-Chinese的微调数据集示例                     | https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/tree/main/data |
-| ChatMed_Consult_Dataset | ChatMed-Dataset是由OpenAI的 GPT-3.5 引擎生成的110,113个医学查询-响应对（中文）的数据集。这些查询是从几个在线医疗咨询网站抓取的，反映了现实世界的医疗需求。响应由 OpenAI 引擎生成。该数据集旨在将医学知识注入中文大语言模型中。 | https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset |
-| ChatMed_TCM-v0.2        | 以开源的中医药知识图谱为基础，采用以实体为中心的自指令方法(entity-centric self-instruct)，调用ChatGPT得到2.6w+的围绕中医药的指令数据。 | https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset |
-| smile-train             | 心理健康对话                                                 | https://github.com/qiuhuachuan/smile/tree/main/data          |
+|                         |                                                              |
+| ----------------------- | ------------------------------------------------------------ |
+| 中文微调数据集          | https://modelscope.cn/datasets/zhuangxialie/Llama3-Chinese-Dataset/files |
+| code                    | https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca |
+| mathglm                 | https://cloud.tsinghua.edu.cn/d/8d9ee3e52bb54afd9c16/        |
+| sft-20k                 | https://github.com/CMKRG/QiZhenGPT/blob/main/data/train/sft-20k.json |
+| llama_data              | https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/tree/main/data |
+| ChatMed_Consult_Dataset | https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset |
+| ChatMed_TCM-v0.2        | https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset |
+| smile-train             | https://github.com/qiuhuachuan/smile/tree/main/data          |
 
  
 
