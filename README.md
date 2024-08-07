@@ -20,7 +20,7 @@ Gemma2-9B-Instruct 模型，凭借其庞大的参数规模、卓越的自然语�
 
 ## 安装与加载
 
-克隆本项目到本地：
+克隆本项目到本地：https://huggingface.co/jiangfb/gemma-2-chinese-9b-it-dpo
 
 git clone 
 
