@@ -1,4 +1,4 @@
-# Gemma2-9b-chinese-instruct with SFT and DPO
+# gemma-2-9b-chinese-instruct with SFT and DPO
 
 ## 项目简介
 
