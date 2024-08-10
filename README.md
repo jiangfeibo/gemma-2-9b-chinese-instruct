@@ -75,5 +75,14 @@ dpo数据集：
 | orca_dpo_pairs    | https://huggingface.co/datasets/Intel/orca_dpo_pairs       |
 | Chinese-dpo-pairs | https://huggingface.co/datasets/wenbopan/Chinese-dpo-pairs |
 
+## 贡献者
+
+朱万运，2909574802@qq.com，湖南师范大学，在读研究生
+
+江沸菠，jiangfb@hunnu.edu.cn，湖南师范大学，副教授
+
+黄鸿洁，sherlor@163.com，湖南师范大学，在读研究生
+
+涂思伟，tusiwei@hunnu.edu.cn，湖南师范大学，在读研究生
  
 
