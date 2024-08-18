@@ -1,5 +1,9 @@
 # gemma-2-9b-chinese-instruct with SFT and DPO
 
+<div align="center">
+  <img src="https://github.com/jiangfeibo/gemma-2-9b-chinese-instruct/blob/main/README.assets/gemma2.jpg" width="500px">
+</div>
+
 ## 项目简介
 
 Gemma 2系列模型是谷歌于2024年6月27日发布的开源大模型，其中Gemma 2-9B的性能在同类产品中处于领先地位，超过了Llama 3 8B和其他同规模的开源模型。Gemma 2-9B-Instruct模型，凭借其庞大的参数规模、卓越的自然语言理解能力以及灵活的指令执行能力，在全球范围内备受瞩目并赢得了高度评价。该模型在广泛的自然语言处理任务中，如文本创作、智能问答、信息摘要等，均展现出了非凡的性能，为人工智能技术的创新与应用奠定了坚实的基础。
