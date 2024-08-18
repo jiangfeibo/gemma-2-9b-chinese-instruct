@@ -1,6 +1,8 @@
 # gemma-2-9b-chinese-instruct with SFT and DPO
 
-<img src="https://github.com/jiangfeibo/gemma-2-9b-chinese-instruct/blob/main/README.assets/gemma2.jpg"  align="center" alt="image text" width="500" />
+<div style="text-align: center;">
+  <img src="https://github.com/jiangfeibo/gemma-2-9b-chinese-instruct/blob/main/README.assets/gemma2.jpg" alt="image text" width="500" />
+</div>
 
 ## 项目简介
 
